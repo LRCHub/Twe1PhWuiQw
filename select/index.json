@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "冒険者 ON THE ROAD",
+  "base_artist": "サイキックラバー",
+  "createdAt": "2026-03-25T14:27:01.950758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冒険者",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/01_冒険者_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冒険者",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/02_冒険者_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "冒険者 ON THE ROAD (Album Version)",
+      "artist": "サイキックラバー",
+      "has_synced": false,
+      "path": "select/03_冒険者_ON_THE_ROAD_(Album_Version)_サイキックラバー.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "冒険者 ON THE ROAD (Album ver.)",
+      "artist": "サイキックラバー",
+      "has_synced": false,
+      "path": "select/04_冒険者_ON_THE_ROAD_(Album_ver.)_サイキックラバー.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "冒険者 ON THE ROAD 2018",
+      "artist": "サイキックラバー",
+      "has_synced": false,
+      "path": "select/05_冒険者_ON_THE_ROAD_2018_サイキックラバー.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "冒険者",
+      "artist": "Nobuhiko Okamoto",
+      "has_synced": false,
+      "path": "select/06_冒険者_Nobuhiko_Okamoto.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冒険者 ON THE ROAD",
+      "artist": "サイキックラバー",
+      "has_synced": false,
+      "path": "select/pl_01_冒険者_ON_THE_ROAD_サイキックラバー.txt"
+    }
+  ]
+}
